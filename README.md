@@ -48,8 +48,6 @@
 - Add interactive filtering using Jupyter widgets.
 - Expand analysis with additional metrics (e.g., salary impact on turnover or role-based performance).
 
-## Contact
-For questions or collaboration, please contact [your.email@example.com] or visit [your LinkedIn profile link].
 
 ## Acknowledgments
 - Utilized open-source libraries (Pandas, Matplotlib, Seaborn) for analysis and visualization.
